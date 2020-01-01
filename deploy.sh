@@ -4,8 +4,6 @@
 #
 # Windows 无法执行 .sh 文件，需要安装 git 客户端
 #
-# Author: addio
-# Email: www@addio.cn
 #
 
 # 开始
@@ -28,7 +26,7 @@ cp -i README.md dist_temp
 cd dist_temp
 
 # 新建 CNAME 文件，并写入 gleehub.com 域名
-echo gleehub.com > CNAME
+echo gleehub.com >CNAME
 
 # 初始化仓库
 git init
@@ -40,7 +38,7 @@ git add -A
 git commit -m deploy
 
 # 强制推送到 addio.github.io 仓库的 master 分支
-git push -f https://github.com/ioim/aaa.git master
+git push -f https://github.com/addio/vuepress.git master
 
 # 多仓库部署开始 ------
 
