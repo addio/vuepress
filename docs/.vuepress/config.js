@@ -8,7 +8,7 @@ module.exports = {
             content: 'width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0',
         }],
         ['meta', { name: 'X-UA-Compatible', content: 'ie=edge' }],
-        ['meta', { name: 'keywords', content: 'cnguu,gleehub,凉风有信,博客' }],
+        ['meta', { name: 'keywords', content: 'addio,gleehub,凉风有信,博客' }],
         ['meta', { name: 'theme-color', content: '#3c67bd' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
@@ -43,10 +43,10 @@ module.exports = {
         site: 'https://gleehub.com',
 
         // 博主名称
-        author: 'cnguu',
+        author: 'addio',
 
         // 博主名称跳转链接
-        authorLink: 'https://github.com/cnguu/',
+        authorLink: 'https://github.com/addio/',
 
         // 站点 Logo
         logo: '/20171231/logo.png',
@@ -65,7 +65,7 @@ module.exports = {
         nav: [
             { text: '其它', link: '/other/' },
         ],
-        
+
         // 评论：vssue or valine
         //comment: 'valine',
 
@@ -122,7 +122,7 @@ module.exports = {
         about: {
             banner: '/20171231/first-day-of-spring-2016-northern-hemisphere.gif',   // 封面图
             avatar: 'https://static.xmt.cn/cc50c217cbe342ce951324583f2c6139.png',   // 头像链接
-            name: 'cnguu',                                                          // 博主名称
+            name: 'addio',                                                          // 博主名称
             introduction: '责难无以成事',                                            // 简介
         },
 
@@ -141,7 +141,7 @@ module.exports = {
             [   // 相关信息
                 {
                     title: 'GitHub',                        // 标题
-                    link: 'https://github.com/cnguu/',      // 跳转链接
+                    link: 'https://github.com/addio/',      // 跳转链接
                     type: 'github',                         // 图标，这里获取：https://vue.ant.design/components/icon-cn/
                     theme: 'filled',                        // 图标类型，可选：filled（实心）丨outlined（默认：描线）丨twoTone（双色）
                 },
@@ -151,8 +151,8 @@ module.exports = {
             ],
             [   // 其它
                 {
-                    title: 'www@cnguu.cn',
-                    link: 'mailto:www@cnguu.cn',
+                    title: 'www@addio.cn',
+                    link: 'mailto:www@addio.cn',
                     type: 'mail',
                     theme: 'outlined',
                 },

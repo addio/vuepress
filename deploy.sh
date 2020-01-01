@@ -4,8 +4,8 @@
 #
 # Windows 无法执行 .sh 文件，需要安装 git 客户端
 #
-# Author: cnguu
-# Email: www@cnguu.cn
+# Author: addio
+# Email: www@addio.cn
 #
 
 # 开始
@@ -39,7 +39,7 @@ git add -A
 # 提交
 git commit -m deploy
 
-# 强制推送到 cnguu.github.io 仓库的 master 分支
+# 强制推送到 addio.github.io 仓库的 master 分支
 git push -f https://github.com/ioim/aaa.git master
 
 # 多仓库部署开始 ------
@@ -56,8 +56,8 @@ git push -f https://github.com/ioim/aaa.git master
 # 提交
 #git commit -m deploy
 
-# 强制推送到 cnguu.coding.me 仓库的 master 分支
-#git push -f git@git.dev.tencent.com:cnguu/cnguu.coding.me.git master
+# 强制推送到 addio.coding.me 仓库的 master 分支
+#git push -f git@git.dev.tencent.com:addio/addio.coding.me.git master
 
 # 多仓库部署结束 ------
 

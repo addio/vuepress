@@ -5,17 +5,17 @@
   "keywords": [
     "vuepress",
     "yur",
-    "cnguu",
+    "addio",
     "blog",
     "cli"
   ],
-  "author": "cnguu",
+  "author": "addio",
   "license": "MIT",
   "homepage": "https://gleehub.com/",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://+git@git.github.com:cnguu/vuepress-cli.git"
+    "url": "https://+git@git.github.com:addio/vuepress-cli.git"
   },
   "main": "index.js",
   "scripts": {

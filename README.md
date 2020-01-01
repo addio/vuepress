@@ -2,7 +2,7 @@
 
 ## :fishing_pole_and_fish: VuePress 博客搭建工具
 
-基于 [Yur](https://github.com/cnguu/vuepress-theme-yur) 主题的 VuePress 博客快速搭建工具
+基于 [Yur](https://github.com/addio/vuepress-theme-yur) 主题的 VuePress 博客快速搭建工具
 
 [![version](https://img.shields.io/github/release/ioim/vuepress-theme-yur-cli.svg?style=flat-square)](https://github.com/ioim/vuepress-theme-yur-cli/releases)
 [![last-commit](https://badgen.net/github/last-commit/ioim/vuepress-theme-yur-cli)](https://github.com/ioim/vuepress-theme-yur-cli)

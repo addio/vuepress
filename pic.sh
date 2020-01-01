@@ -4,8 +4,8 @@
 #
 # Windows 无法执行 .sh 文件，需要安装 git 客户端
 #
-# Author: cnguu
-# Email: www@cnguu.cn
+# Author: addio
+# Email: www@addio.cn
 #
 
 # 开始
@@ -30,7 +30,7 @@ git add -A
 git commit -m update
 
 # 推送到 pic 仓库的 master 分支
-git push -f git@github.com:cnguu/pic.git master
+git push -f git@github.com:addio/vuepress.git master
 
 # 返回上一级目录
 cd ../
